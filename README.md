@@ -34,14 +34,14 @@ I'm into technical writing📖 also.
 - I'm currently working on a mini social application.
 
 **Stack**
-MongoDb || MySQL(Database management)
-Node.js || Python (Server- Side)
-React.js (Client-side)
-AWS (Cloud management services)
+- MongoDb || MySQL(Database management)
+- Nodee.js || Python (Server- Side)
+- React.js (Client-side)
+- AWS (Cloud management services)
 
-☎️ Wanna reach me??
-✉️ marowmars@gmail.com
-📱 +234-81-5920-7268 (Yes I'm Nigerian 😇)
+☎️ _Wanna reach me??_
+- ✉️marowmars@gmail.com
+- 📱+234-81-5920-7268 (Yes I'm Nigerian 😇)
 
- Let's rock this!!💪
+- Let's rock this!!💪
 
