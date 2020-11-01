@@ -25,23 +25,23 @@ I'm into technical writing📖 also.
 **Food** 🍕
 - This is for another day 😁😁
 
-**Hobbies**
+**Hobbies** 💃
 - Chatting🗨️
 - Writing codes👨‍💻 || articles📖
 - Dancing 🕺💃(Lost it from age 7)😇
 
-**Projects**
+**Projects** 📽️
 - I'm currently working on a mini social application.
 
-**Stack**
-- MongoDb || MySQL(Database management)
-- Nodee.js || Python (Server- Side)
+**Stack** 📚
+- MongoDB || MySQL(Database management)
+- Node.js || Python (Server- Side)
 - React.js (Client-side)
 - AWS (Cloud management services)
 
 ☎️ _Wanna reach me??_
 - ✉️marowmars@gmail.com
-- 📱+234-81-5920-7268 (Yes I'm Nigerian 😇)
+- 📱+234-81-5920-7268
 
 - Let's rock this!!💪
 
