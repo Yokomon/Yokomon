@@ -40,8 +40,8 @@ I'm into technical writing📖 also.
 - AWS (Cloud management services)
 
 ☎️ _Wanna reach me??_
-- ✉️marowmars@gmail.com
-- 📱+234-81-5920-7268
+- ✉️ marowmars@gmail.com
+- 📱 +234-81-5920-7268
 
 - Let's rock this!!💪
 
