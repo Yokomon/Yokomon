@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my 🌍**space**🌍. The name is **Marow Macaulay**👨‍💻🕵️.
+Welcome to my 🌍**world**🌍. The name is **Marow Macaulay**👨‍💻🕵️.
 I'm a software developer💻 by profession.
 I'm into technical writing📖 also.
 
