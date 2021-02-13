@@ -18,26 +18,16 @@ Welcome to my 🌍**world**🌍. The name is **Marow Macaulay**👨‍💻🕵�
 I'm a software developer💻 by profession.
 I'm into technical writing📖 also.
 
-**DBMS**
-- MySQL
-- MongoDB (NoSQL)♥️♥️
+**Languages and Tools:**
 
-**Food** 🍕
-- This is for another day 😁😁
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Hobbies** 💃
-- Chatting🗨️
-- Writing codes👨‍💻 || articles📖
-- Dancing 🕺💃(Lost it from age 7)😇
-
-**Projects** 📽️
-- I'm currently working on a mini social application.
-
-**Stack** 📚
-- MongoDB || MySQL(Database management)
-- Node.js || Python (Server- Side)
-- React.js (Client-side)
-- AWS (Cloud management services)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yokomon&show_icons=true)
 
 ☎️ _Wanna reach me??_
 - ✉️ marowmars@gmail.com
