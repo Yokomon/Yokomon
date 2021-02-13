@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my 🌍**world**🌍. The name is **Marow Macaulay**👨‍💻🕵️.
-I'm a software developer💻 by profession.
-I'm into technical writing📖 also.
+Welcome to my 🌍**world**🌍. The name is **Marow Macaulay**👨‍💻🕵️ and i'm a software developer. 
+I focus on Frontend development using JavaScript technologies such as React.js and other
+tools such as Babel.js and Webpack. I have over 4 years of professional experience and 6 years of development experience. 
+Below are my stacks and Github stats.
 
 **Languages and Tools:**
 
