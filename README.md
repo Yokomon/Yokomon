@@ -28,7 +28,7 @@ Below are my stacks and Github stats.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yokomon&show_icons=true)
+![Marow Macaulay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokomon&count_private=true)
 
 ☎️ _Wanna reach me??_
 - ✉️ marowmars@gmail.com
