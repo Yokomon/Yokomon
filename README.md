@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my 🌍**world**🌍. The name is **Marow Macaulay**👨‍💻🕵️ and i'm a software developer. 
 I focus on Frontend development using JavaScript technologies such as React.js and other
-tools such as Babel.js and Webpack. I have over 4 years of professional experience and 6 years of development experience. 
+tools such as Babel.js and Webpack. I have over 4 years of professional experience working with Frontend technologies. 
 Below are my stacks and Github stats.
 
 **Languages and Tools:**
