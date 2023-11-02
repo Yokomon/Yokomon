@@ -30,8 +30,8 @@ Below are my stacks and Github stats.
 
 ![Marow Macaulay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokomon&count_private=true)
 
-☎️ _Wanna reach me??_
-- ✉️ marowmars@gmail.com
+☎️ _Want to reach me??_
+- ✉️ marowmacaulay@gmail.com
 - 📱 +234-81-5920-7268
 
 - Let's rock this!!💪
