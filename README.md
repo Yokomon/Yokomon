@@ -12,16 +12,12 @@ If an idea pops into my head, chances are I’ll build it, test it, and release 
 
 **Main Stack**  
 - React  
-- Next.js (14.2)  
+- Next.js
 - TypeScript  
 - Tailwind CSS  
 - Redux  
 - Sanity  
 - Framer Motion    
-
-**Favorite Tools**  
-- Notion  
-- Procreate (iPad)  
 
 ---
 
@@ -33,17 +29,6 @@ I love working where **engineering meets creativity**. My projects often involve
 - Frontend engineering experiments and reusable UI patterns  
 
 I enjoy shipping fast — whether it’s an app, a story, or a visual experiment.
-
----
-
-## 🧠 Learning & Exploring
-
-Continuously improving in:
-
-- Frontend architecture  
-- Interaction design  
-- AI-assisted creative workflows  
-- Building polished, scalable UI systems  
 
 ---
 
