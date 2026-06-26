@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m **Oghenemarow Macaulay**, a Frontend Engineer based in Nigeria.
+I’m **Oghenemarow Macaulay**, a Software Engineer based in Nigeria.
 
 I design, build, and ship clean, high-impact digital experiences from web apps to AI-powered stories and viral short-form content.
 
